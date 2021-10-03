@@ -1,0 +1,6 @@
+C:\Users\Sebastian\source\repos\University.Students\University.Students.Domain\bin\Debug\University.Students.Domain.dll
+C:\Users\Sebastian\source\repos\University.Students\University.Students.Domain\bin\Debug\University.Students.Domain.pdb
+C:\Users\Sebastian\source\repos\University.Students\University.Students.Domain\obj\Debug\University.Students.Domain.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\University.Students\University.Students.Domain\obj\Debug\University.Students.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\University.Students\University.Students.Domain\obj\Debug\University.Students.Domain.dll
+C:\Users\Sebastian\source\repos\University.Students\University.Students.Domain\obj\Debug\University.Students.Domain.pdb
