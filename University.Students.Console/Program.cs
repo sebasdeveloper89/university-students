@@ -17,7 +17,10 @@ namespace University.Students.Console
 
             var fullName = oStudent.ShowFullName();
 
-            System.Console.WriteLine(fullName);
+            var objCourse = new Course();
+            var nombreCurso = objCourse.ShowCourseName();
+
+            System.Console.WriteLine(nombreCurso);
             System.Console.ReadLine();
 
 
