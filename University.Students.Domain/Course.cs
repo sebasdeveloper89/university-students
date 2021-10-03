@@ -11,5 +11,10 @@ namespace University.Students.Domain
         public int IdCourse { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
+
+        public string ShowCourseName()
+        {
+            return "Este es el curso de matematicas";
+        }
     }
 }
