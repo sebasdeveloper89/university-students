@@ -11,5 +11,10 @@ namespace University.Students.Domain
         public int IdSchedule { get; set; }
         public string Name { get; set; }
         public string WorkingDay { get; set; }
+
+        public string ShowScheduleName() 
+        {
+            return "Este es el horario del lunes";
+        }
     }
 }
