@@ -1,0 +1,6 @@
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\Univerity.Students.DataLayer\bin\Debug\Univerity.Students.DataLayer.dll
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\Univerity.Students.DataLayer\bin\Debug\Univerity.Students.DataLayer.pdb
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\Univerity.Students.DataLayer\obj\Debug\Univerity.Students.DataLayer.csproj.AssemblyReference.cache
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\Univerity.Students.DataLayer\obj\Debug\Univerity.Students.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\Univerity.Students.DataLayer\obj\Debug\Univerity.Students.DataLayer.dll
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\Univerity.Students.DataLayer\obj\Debug\Univerity.Students.DataLayer.pdb

@@ -8,3 +8,13 @@ C:\Users\Sebastian\source\repos\University.Students\University.Students.Console\
 C:\Users\Sebastian\source\repos\University.Students\University.Students.Console\obj\Debug\University.Students.Console.csproj.CopyComplete
 C:\Users\Sebastian\source\repos\University.Students\University.Students.Console\obj\Debug\University.Students.Console.exe
 C:\Users\Sebastian\source\repos\University.Students\University.Students.Console\obj\Debug\University.Students.Console.pdb
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\bin\Debug\University.Students.Console.exe.config
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\bin\Debug\University.Students.Console.exe
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\bin\Debug\University.Students.Console.pdb
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\bin\Debug\University.Students.Domain.dll
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\bin\Debug\University.Students.Domain.pdb
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\obj\Debug\University.Students.Console.csproj.AssemblyReference.cache
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\obj\Debug\University.Students.Console.csproj.CoreCompileInputs.cache
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\obj\Debug\University.Students.Console.csproj.CopyComplete
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\obj\Debug\University.Students.Console.exe
+C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\obj\Debug\University.Students.Console.pdb
