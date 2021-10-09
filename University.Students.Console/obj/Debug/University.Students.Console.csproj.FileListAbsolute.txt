@@ -18,3 +18,13 @@ C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Stud
 C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\obj\Debug\University.Students.Console.csproj.CopyComplete
 C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\obj\Debug\University.Students.Console.exe
 C:\Users\joan.cardona\Documents\Santi Progra\university-students\University.Students.Console\obj\Debug\University.Students.Console.pdb
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\bin\Debug\University.Students.Console.exe.config
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\bin\Debug\University.Students.Console.exe
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\bin\Debug\University.Students.Console.pdb
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\bin\Debug\University.Students.Domain.dll
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\bin\Debug\University.Students.Domain.pdb
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\obj\Debug\University.Students.Console.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\obj\Debug\University.Students.Console.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\obj\Debug\University.Students.Console.csproj.CopyComplete
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\obj\Debug\University.Students.Console.exe
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\University.Students.Console\obj\Debug\University.Students.Console.pdb

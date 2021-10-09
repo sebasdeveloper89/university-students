@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace University.Students.Domain
+namespace Univerity.Students.DataLayer
 {
-    public  class Student : Team
+    public class StudentDataAccess
     {
-        public int IdStudent { get; set; }
+
     }
 }

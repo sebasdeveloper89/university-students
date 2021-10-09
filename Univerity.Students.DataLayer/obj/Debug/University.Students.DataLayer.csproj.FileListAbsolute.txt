@@ -1,0 +1,9 @@
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\Univerity.Students.DataLayer\bin\Debug\Univerity.Students.DataLayer.dll
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\Univerity.Students.DataLayer\bin\Debug\Univerity.Students.DataLayer.pdb
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\Univerity.Students.DataLayer\bin\Debug\University.Students.Domain.dll
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\Univerity.Students.DataLayer\bin\Debug\University.Students.Domain.pdb
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\Univerity.Students.DataLayer\obj\Debug\University.Students.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\Univerity.Students.DataLayer\obj\Debug\University.Students.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\Univerity.Students.DataLayer\obj\Debug\University.Students.DataLayer.csproj.CopyComplete
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\Univerity.Students.DataLayer\obj\Debug\Univerity.Students.DataLayer.dll
+C:\Users\Sebastian\Documents\Code\Net Framework\university-students\Univerity.Students.DataLayer\obj\Debug\Univerity.Students.DataLayer.pdb

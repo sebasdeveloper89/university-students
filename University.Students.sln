@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Students.Console", "University.Students.Console\University.Students.Console.csproj", "{0ED1DCF1-188C-4850-B319-FEA413134D7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Univerity.Students.DataLayer", "Univerity.Students.DataLayer\Univerity.Students.DataLayer.csproj", "{17602741-7C7F-4E41-852F-C8356605412F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Students.DataLayer", "Univerity.Students.DataLayer\University.Students.DataLayer.csproj", "{17602741-7C7F-4E41-852F-C8356605412F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.Students.Domain", "University.Students.Domain\University.Students.Domain.csproj", "{F051ED8D-3CAC-4C4D-891D-ADFF5D7A5776}"
 EndProject
