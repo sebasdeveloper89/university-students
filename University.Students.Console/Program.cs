@@ -11,12 +11,6 @@ namespace University.Students.Console
     {
         static void Main(string[] args)
         {
-            var oStudent = new Teacher();
-            oStudent.FirstName = "Sebastian";
-            oStudent.LastName = "Cardona";
-
-            var fullName = oStudent.ShowFullName();
-
             var objCourse = new Course();
             var nombreCurso = objCourse.ShowCourseName();
 
